@@ -1,0 +1,28 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 85%;
+  min-width: 1184px;
+  margin-top: 34px;
+  margin-bottom: 36px;
+}
+.image {
+  border-radius: 18px;
+}
+.heading {
+  font-size: 24px;
+  color: #1e293b;
+}
+.paragraph {
+  color: #64748b;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+}
